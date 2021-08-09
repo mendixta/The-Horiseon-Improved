@@ -28,4 +28,4 @@ The following changes were made to the code in order to make it presentable, eas
     * In the HTML, < div class="footer" > , was changed to < footer class= "Copyright" >.
 
 # Screenshot / The Final Product
-[](The-Horiseon-Improved.png)
+<img src='The-Horiseon-Improved.png'>
