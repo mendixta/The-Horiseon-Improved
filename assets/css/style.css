@@ -1,0 +1,210 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* background color for the class section */
+body {
+    background-color: #d9dcd6;
+}
+
+/* color and font for class navigation and title */
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c; 
+
+    /* set title color to white */ 
+    color: #ffffff; 
+}
+    /* set title's font size to 48px */
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .seo {
+    color: #d9dcd6;
+}
+/* this controls where and the navigation links are positioned */
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+/* this controls the display of the navigation links */
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* this changes the color and font size of the navigation headers */ 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/* this controls the font size for all the pagaraphs in the HTML */
+p {
+    font-size: 16px;
+}
+
+/* demensions for the 'hero' */
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/* positioning for the sections */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* this controls how much space the content or sections takes up */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* this controls the side bar, also known as the aside class, in the HTML */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+    /* this controls the placement of what is inside the sidebar*/
+.lead-generation {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.brand-awareness {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.cost-management {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+    /* this controls the headers or the titles in the sidebar */
+.lead-generation h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.brand-awareness h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.cost-management h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+    /* this controls the images in the sidebar */
+.lead-generation img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.brand-awareness img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.cost-management img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* everything below controls the sections for each header */
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/* controls the maximum height for the images in the sections */
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+/*controls the font sizes and margin for the 'h2' for the 'section class' in the HTML */
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* controls the font, demensions, as well as alinment for footer */
+.Copyright {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.Copyright h2 {
+    font-size: 20px;
+}
