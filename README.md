@@ -1,7 +1,7 @@
 # The-Horiseon-Improved
 
 # Summary 
-In this project, I worked with starter code that needed to be improved or fixed, also known as 'refactoring'. Before actually starting to clean up the code, I addded some comments in the HTML, as well as in the CSS, in order to create sections that went with each part of the website to make the code a bit more organized, as well as easier to read when I was working with it.  The end result was this: https://mendixta.github.io/Horiseon-Improved/
+In this project, I worked with starter code that needed to be improved or fixed, also known as 'refactoring'. Before actually starting to clean up the code, I addded some comments in the HTML, as well as in the CSS, in order to create sections that went with each part of the website to make the code a bit more organized, as well as easier to read when I was working with it.  The end result was this: https://mendixta.github.io/The-Horiseon-Improved/
 
 # Making it Cleaner 
 The following changes were made to the code in order to make it presentable, easier to work with and read:
